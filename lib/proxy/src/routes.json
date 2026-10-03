@@ -1,0 +1,8 @@
+{
+  "claude-fable-*": "swe-2-max",
+  "claude-5-fable-*": "swe-2-max",
+  "claude-opus-*": "swe-2-max",
+  "claude-sonnet-*": "swe-2-high",
+  "claude-haiku-*": "swe-2-medium",
+  "claude-*": "swe-2-high"
+}

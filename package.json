@@ -1,0 +1,39 @@
+{
+  "name": "clap-its-a-wrap",
+  "version": "1.0.0",
+  "description": "Run Claude Code on other models through a local Anthropic-compatible proxy, with model routing and an allowlist. ATM: SWE-2 models as they're free with API",
+  "type": "module",
+  "bin": {
+    "clap": "./bin/clap"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "anthropic",
+    "proxy",
+    "devin",
+    "codeium",
+    "swe-2",
+    "model-routing"
+  ],
+  "author": "Regis",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ReuK212/clap-its-a-wrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ReuK212/clap-its-a-wrap/issues"
+  },
+  "homepage": "https://github.com/ReuK212/clap-its-a-wrap#readme",
+  "engines": {
+    "node": ">=18.19.0"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "allowed": ["swe-2-*"],
+  "reroute_blocked_to": "swe-2-high"
+}
